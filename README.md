@@ -20,6 +20,23 @@ I'm Kam, a self-motivated tech enthusiast and full stack web developer currently
   
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 
+<a href="#macropower-title">
+  <img src="https://raw.githubusercontent.com/sekiro-dev/github-stats-transparent/output/generated/languages.svg" alt="macropower" align="right" />
+</a>
+
+### <samp>&gt; Weekly development breakdown</samp>
+<!--START_SECTION:waka-->
+
+```txt
+C           10 hrs 19 mins  ███████████████████████▒░   93.46 %
+Go          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+Terraform   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Other       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Bash        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+```
+
+<!--END_SECTION:waka-->
+
 <br><br>
 
 <div align="center">
