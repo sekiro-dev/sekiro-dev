@@ -20,11 +20,7 @@ I'm Kam, a self-motivated tech enthusiast and full stack web developer currently
   
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/sekiro-dev/github-stats-transparent/output/generated/languages.svg" alt="macropower" align="right" />
-</a>
-
-### <samp>&gt; Weekly development breakdown</samp>
+### <samp>&gt; This week I spent my time on</samp>
 <!--START_SECTION:waka-->
 
 ```txt
