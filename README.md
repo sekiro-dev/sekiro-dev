@@ -5,7 +5,7 @@ I'm Kam, a self-motivated tech enthusiast and full stack web developer currently
 ---
 
 <a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+  <img src="https://raw.githubusercontent.com/sekiro-dev/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
 </a>
 
 ### <samp>&gt; About me</samp>
