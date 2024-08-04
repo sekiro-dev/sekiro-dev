@@ -22,15 +22,6 @@ I'm Kam, a self-motivated tech enthusiast and full stack web developer currently
 
 ### <samp>&gt; This week I spent my time on</samp>
 <!--START_SECTION:waka-->
-
-```txt
-C           10 hrs 19 mins  ███████████████████████▒░   93.46 %
-Go          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
-Terraform   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-Other       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-Bash        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-```
-
 <!--END_SECTION:waka-->
 
 <br><br>
