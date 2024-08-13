@@ -4,10 +4,6 @@ I'm Kam, a self-motivated tech enthusiast and full stack web developer currently
 ##### 💻 full stack developer [@sekiro-dev](https://github.com/sekiro-dev) | 🌱 building `SECRET` | 💬 connect [Discord](https://discord.com)
 ---
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/sekiro-dev/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
-</a>
-
 ### <samp>&gt; About me</samp>
 
 - ⚙️ I use daily: .py, .js, .html, .css, .svg, .psd, .ai, .ts, .dart, ...
