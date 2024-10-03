@@ -1,7 +1,11 @@
 ### <samp>&gt; Hi There! I am [Kam Wake](https://github.com/sekiro-dev) 👋</samp>
 I'm Kam, a self-motivated tech enthusiast and full stack web developer currently exploring Web3 space and likes Minecraft so much. and other somthings.
 
-##### 💻 full stack developer [@sekiro-dev](https://github.com/sekiro-dev) | 🌱 building `SECRET` | 💬 connect [Discord](https://discord.com)
+
+[![Telegram](https://img.shields.io/badge/telegram-%2320232a.svg?style=for-the-badge&logo=telegram&logoColor=white?url=https://t.me/nibori_me)](https://t.me/nibori_me) 
+[![discord](https://img.shields.io/badge/discord-%2320232a.svg?style=for-the-badge&logo=discord&logoColor=white?url=https://discordapp.com/users/828847306173972501)](https://discordapp.com/users/828847306173972501) 
+![](https://komarev.com/ghpvc/?username=sekiro-dev&color=brightgreen&label=PROFILE+VIEWS&style=for-the-badge)
+![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/sekiro-dev)
 ---
 
 ### <samp>&gt; About me</samp>
