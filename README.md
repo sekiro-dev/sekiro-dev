@@ -1,3 +1,5 @@
+![header image](header.png)
+
 ### <samp>&gt; Hi There! I am [Kam Wake](https://github.com/sekiro-dev) 👋</samp>
 I'm Kam, a self-motivated tech enthusiast and full stack web developer currently exploring Web3 space and likes Minecraft so much. and other somthings.
 
@@ -11,13 +13,10 @@ I'm Kam, a self-motivated tech enthusiast and full stack web developer currently
 ### <samp>&gt; About me</samp>
 
 - ⚙️ I use daily: .py, .js, .html, .css, .svg, .psd, .ai, .ts, .dart, ...
-
+  
 - 🌍 I'm mostly active within the **Voxystar community**
-  
 - 🔭 I’m currently working on creating better portfolio .
-  
 - 😀 I like to 🎮, </>, 📖, 🛹, 🎸, 🍪 and ✒️ in my free time.
-  
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 
 ### <samp>&gt; This week I spent my time on</samp>
