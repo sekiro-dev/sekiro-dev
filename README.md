@@ -23,11 +23,8 @@ I'm Kam, a self-motivated tech enthusiast and full stack web developer currently
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   6 hrs 45 mins   ███████████▒░░░░░░░░░░░░░   45.51 %
-Astro        6 hrs 33 mins   ███████████░░░░░░░░░░░░░░   44.08 %
-JavaScript   1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
-JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Astro        6 hrs 36 mins   ████████████▓░░░░░░░░░░░░   50.69 %
+TypeScript   6 hrs 25 mins   ████████████▒░░░░░░░░░░░░   49.31 %
 ```
 
 <!--END_SECTION:waka-->
