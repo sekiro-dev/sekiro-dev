@@ -23,7 +23,11 @@ I'm Kam, a self-motivated tech enthusiast and full stack web developer currently
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   1 hr 51 mins    █████████████▓░░░░░░░░░░░   55.14 %
+Other    52 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.69 %
+JSON     31 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
+Bash     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
