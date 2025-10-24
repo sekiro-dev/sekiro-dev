@@ -23,9 +23,9 @@ I'm Kam, a self-motivated tech enthusiast and full stack web developer currently
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   7 hrs 52 mins   ███████████████████░░░░░░   75.87 %
-Python       2 hrs 23 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.10 %
-Bash         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+TypeScript   7 hrs 52 mins   █████████████████▓░░░░░░░   70.84 %
+Python       3 hrs 8 mins    ███████░░░░░░░░░░░░░░░░░░   28.18 %
+Bash         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
